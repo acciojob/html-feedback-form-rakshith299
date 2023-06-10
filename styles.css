@@ -1,10 +1,31 @@
 
 .button{
-	background-color: lightblue;
+	background-color: aquamarine;
 	padding:8px;
 	width: 110px;
 	color: white;
 	border: none;
 	cursor:pointer;
+	border-radius: 10px;
+	font-size: 15px;
 	
+}
+
+div label{
+	font-size: 22px;
+	
+}
+
+.input1{
+	border: none;
+	width: 50%;
+	margin-bottom: 20px;
+}
+
+.input{
+	width: 50%;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	padding-left: 10px;
+	height: 25px;
 }
